@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Camera Privacy and Sharing
+Owner: Team Member 3
+============================================================
+
+PRIVACY MODE
+Enabling Privacy Mode physically covers the lens on indoor models and stops recording and
+streaming.
+
+SHARING ACCESS
+Owners can invite up to 10 members with Viewer or Manager roles. Viewers cannot delete
+clips.
+
+ENCRYPTION
+Video is encrypted with AES-256 in transit and at rest.
+
+LAW ENFORCEMENT
+NovaTech discloses video only with a valid legal order or with the owner's consent.

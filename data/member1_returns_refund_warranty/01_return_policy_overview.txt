@@ -1,0 +1,27 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: NovaTech Return Policy Overview
+Owner: Team Member 1
+============================================================
+
+SCOPE
+This policy applies to all NovaTech Smart Home hardware purchased directly from novatech-
+home.example or an authorized NovaTech retailer. Subscriptions and digital services are
+covered in the Cloud Plans documents.
+
+RETURN WINDOW
+Customers may return unused or lightly used devices within 30 days of the delivery date.
+The 30-day period starts on the delivery date shown on the carrier tracking page, not the
+order date.
+
+CONDITION REQUIREMENTS
+The device must include all original accessories, cables, mounting hardware and packaging.
+Devices must be factory reset and removed from the customer's NovaTech account before
+return.
+
+NON-RETURNABLE ITEMS
+Opened software license keys, gift cards, and devices damaged by misuse or liquid are not
+eligible for return.
+
+HOW TO START
+Open a return request in the NovaTech app under Support > Returns, or contact support. A
+Return Merchandise Authorization (RMA) number is issued within 1 business day.

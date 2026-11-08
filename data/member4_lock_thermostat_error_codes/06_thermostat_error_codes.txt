@@ -1,0 +1,21 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: NovaStat Error Code Reference
+Owner: Team Member 4
+============================================================
+
+ERROR E04
+No C-wire detected or insufficient power. Install the Power Extender Kit or connect a C
+wire.
+
+ERROR E07
+Temperature sensor failure. Restart the thermostat. If E07 reappears, replace the unit
+under warranty.
+
+ERROR E12
+HVAC not responding. Check furnace switch, filter door, and breaker.
+
+ERROR E21
+Wi-Fi disconnected. Rejoin 2.4 GHz network.
+
+ERROR E33
+Short cycling protection active. The system waits 5 minutes between cycles. Not a fault.

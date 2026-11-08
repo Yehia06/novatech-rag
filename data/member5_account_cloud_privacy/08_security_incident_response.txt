@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Security Incident and Suspicious Activity
+Owner: Team Member 5
+============================================================
+
+SIGNS
+Unknown logins, unfamiliar devices in session list, or lock activity you did not initiate.
+
+IMMEDIATE STEPS
+Change password, sign out all sessions, enable 2FA, and review the activity log.
+
+REPORTING
+Email security@novatech-home.example. Vulnerability reports are acknowledged in 2 business
+days.
+
+NOTIFICATIONS
+NovaTech notifies affected users within 72 hours of confirming a data breach, as required
+by GDPR.

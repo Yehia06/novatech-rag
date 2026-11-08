@@ -1,0 +1,21 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Motion Detection and Alerts
+Owner: Team Member 3
+============================================================
+
+SENSITIVITY
+Three levels: Low, Medium, High. Outdoor cameras should usually use Low or Medium to avoid
+false alerts from trees and headlights.
+
+ACTIVITY ZONES
+Draw up to 4 zones in the app to ignore streets or neighbors' yards.
+
+PERSON AND PACKAGE DETECTION
+Available with the Cloud Plus plan. Free accounts receive generic motion alerts only.
+
+TOO MANY ALERTS
+Lower sensitivity, add activity zones, set a 5-minute cooldown, or schedule quiet hours.
+
+NO ALERTS
+Check notification permissions on the phone, battery saver mode, and that the camera
+schedule is Armed.

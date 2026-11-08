@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Billing, Cancellation and Subscription Refunds
+Owner: Team Member 5
+============================================================
+
+CANCEL ANYTIME
+Cancel in Account > Subscription. Access continues until the end of the paid period.
+
+REFUNDS
+Monthly plans are non-refundable. Annual plans are refundable within 14 days of purchase
+or renewal if no clips were downloaded.
+
+FAILED PAYMENTS
+Error B302 indicates a declined card. NovaTech retries 3 times over 7 days before
+downgrading to Free.
+
+RECEIPTS
+Invoices are available under Account > Billing History.

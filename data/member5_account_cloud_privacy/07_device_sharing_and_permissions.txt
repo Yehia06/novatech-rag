@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Device Sharing and Permissions
+Owner: Team Member 5
+============================================================
+
+ROLES
+Owner: full control. Manager: add devices, edit schedules. Member: control devices.
+Viewer: view only.
+
+INVITING
+Account > Home Members > Invite by email. Invitations expire after 7 days.
+
+TRANSFER OF OWNERSHIP
+Owner must remove devices and the recipient adds them. Direct transfer produces Error
+A301.
+
+REMOVING ACCESS
+Removing a member revokes their lock PINs within 1 minute when the hub is online.

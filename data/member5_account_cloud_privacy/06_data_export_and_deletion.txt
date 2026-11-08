@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Data Export and Account Deletion
+Owner: Team Member 5
+============================================================
+
+EXPORT
+Request a copy of personal data at Account > Privacy > Download My Data. Archives are
+prepared within 72 hours as a ZIP with JSON files.
+
+DELETION
+Account > Privacy > Delete Account. Deletion is permanent after a 14-day grace period.
+
+BEFORE DELETING
+Cancel subscriptions and remove devices. Download clips you want to keep.
+
+WARRANTY IMPACT
+Deleting your account does not remove warranty rights, but the serial number must be re-
+registered with proof of purchase.

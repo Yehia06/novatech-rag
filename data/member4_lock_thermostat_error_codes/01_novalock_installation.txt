@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: NovaLock Pro Installation
+Owner: Team Member 4
+============================================================
+
+COMPATIBILITY
+Fits standard US deadbolts with door thickness 35 to 57 mm and 2-1/8 inch bore.
+
+TOOLS
+Phillips screwdriver and 4 AA batteries (included).
+
+STEPS
+Remove the old deadbolt, install the latch, mount the exterior assembly, route the cable,
+install the interior unit, insert batteries, and run Calibrate Door in the app.
+
+DOOR ALIGNMENT
+If the bolt does not fully extend, adjust the strike plate. Misalignment is the most
+common cause of jamming (Error L203).

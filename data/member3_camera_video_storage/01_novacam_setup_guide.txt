@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: NovaCam Setup Guide
+Owner: Team Member 3
+============================================================
+
+MODELS
+NovaCam Indoor (1080p), NovaCam Outdoor (2K, IP65), NovaCam Doorbell (2K, battery).
+
+PAIRING
+Power on the camera and wait for the voice prompt Ready to connect. In the app choose Add
+Device > NovaCam and scan the QR code on the camera. Connect to a 2.4 GHz network.
+
+MOUNTING
+Outdoor cameras should be mounted 2.5 to 3 meters high, angled downward 20 degrees, and
+under an eave to reduce rain on the lens.
+
+FIRST RUN
+Allow 2 minutes for the first firmware update. Do not power-cycle during this time.

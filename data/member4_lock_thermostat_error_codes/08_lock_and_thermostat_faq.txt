@@ -1,0 +1,16 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Lock and Thermostat FAQ
+Owner: Team Member 4
+============================================================
+
+Q: CAN NOVALOCK BE HACKED OVER BLUETOOTH?
+Communication uses AES-128 encrypted pairing and rolling keys.
+
+Q: DOES NOVALOCK WORK DURING AN OUTAGE?
+Yes. It runs on batteries and keypad access continues to work.
+
+Q: WHY IS MY THERMOSTAT 2 DEGREES OFF?
+Calibrate the offset in Settings > Temperature Offset (range plus or minus 3 degrees).
+
+Q: CAN NOVASTAT CONTROL HUMIDIFIERS?
+Yes, via the accessory wire H on supported models.

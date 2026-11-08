@@ -1,0 +1,20 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: International Returns and Exchanges
+Owner: Team Member 1
+============================================================
+
+ELIGIBLE REGIONS
+NovaTech ships to the US, Canada, UK, EU and Australia. Returns follow the same 30-day
+window in all regions.
+
+CUSTOMS AND DUTIES
+Customers are responsible for return shipping costs on non-defective international
+returns. Import duties paid at delivery are refunded only if the carrier refunds NovaTech.
+
+EXCHANGES
+Exchanges for a different model are processed as a return plus a new order. NovaTech holds
+the new item for 5 days if requested at the time of the RMA.
+
+VOLTAGE AND PLUG TYPES
+Devices ordered for one region may not work in another. Smart plugs and the NovaHub power
+adapter are region-specific and are not eligible for exchange due to incompatibility.

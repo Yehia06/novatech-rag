@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Cloud Video Storage
+Owner: Team Member 3
+============================================================
+
+FREE TIER
+Free accounts get 3 days of motion clips, up to 10 seconds each.
+
+CLOUD PLUS
+Cloud Plus provides 30 days of clip history and up to 3 minutes per event.
+
+CLOUD PRO
+Cloud Pro offers 60 days of continuous 24/7 recording for up to 5 cameras. Pricing is in
+the Cloud Plans document.
+
+RETENTION
+Clips older than the retention period are deleted automatically and cannot be recovered.
+Users can download clips before expiry.

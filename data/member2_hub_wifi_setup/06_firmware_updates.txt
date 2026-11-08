@@ -1,0 +1,19 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Firmware Updates
+Owner: Team Member 2
+============================================================
+
+AUTOMATIC UPDATES
+Firmware updates install automatically between 2 AM and 4 AM local time when the hub is
+online.
+
+MANUAL UPDATES
+Open Device > Settings > Firmware > Check for Updates. Updates take 5 to 10 minutes; do
+not unplug during an update (amber pulsing LED).
+
+FAILED UPDATE
+Error F410 indicates a failed update. Power-cycle the hub and retry. If it fails three
+times, contact support; the hub may require a recovery flash.
+
+RELEASE NOTES
+Latest version is shown in the app. Versions follow the pattern 3.x.y.

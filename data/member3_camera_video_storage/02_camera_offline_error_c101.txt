@@ -1,0 +1,19 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Camera Offline: Error C101
+Owner: Team Member 3
+============================================================
+
+SYMPTOM
+Live view shows Camera Offline and the app displays Error C101.
+
+CAUSES
+Weak Wi-Fi signal, router change, power loss, or expired DHCP lease.
+
+FIX
+1. Check the camera power LED. 2. Move the camera closer to the router or add Ethernet via
+the NovaCam Wired Adapter. 3. Reboot the router. 4. Re-add the camera if the Wi-Fi
+password was changed.
+
+ESCALATION
+If the camera stays offline after reset, collect the serial number and contact support for
+diagnostic logs.

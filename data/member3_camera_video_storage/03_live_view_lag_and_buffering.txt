@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Live View Lag and Buffering
+Owner: Team Member 3
+============================================================
+
+COMMON CAUSES
+Low upload bandwidth, too many simultaneous streams, or a congested 2.4 GHz channel.
+
+SOLUTIONS
+Lower the stream quality in Camera Settings > Video Quality (Auto, 1080p, 720p). Limit
+live view to 2 viewers at a time. Switch the router to channel 1, 6 or 11.
+
+BANDWIDTH TABLE
+720p uses roughly 1 Mbps, 1080p about 2 Mbps, 2K about 4 Mbps per camera.
+
+LATENCY
+Typical live view delay is 2 to 4 seconds. Delays above 10 seconds indicate network
+problems.

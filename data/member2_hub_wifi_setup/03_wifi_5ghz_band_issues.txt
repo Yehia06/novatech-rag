@@ -1,0 +1,22 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Wi-Fi 5GHz Band Issues (Error W105)
+Owner: Team Member 2
+============================================================
+
+SYMPTOM
+During setup the app shows Error W105: Network not supported. The device LED blinks red
+slowly.
+
+CAUSE
+The phone is connected to a 5 GHz network, or the router uses a combined SSID with band
+steering that forces the device onto 5 GHz. NovaTech sensors, cameras and locks cannot
+join 5 GHz.
+
+SOLUTION
+1. In your router settings, create a separate 2.4 GHz SSID or temporarily disable the 5
+GHz radio. 2. Connect your phone to the 2.4 GHz network. 3. Restart pairing. 4. After
+successful setup, you can re-enable 5 GHz.
+
+NOTES
+Channel width should be 20 MHz and the channel should be 1, 6 or 11 for best
+compatibility.

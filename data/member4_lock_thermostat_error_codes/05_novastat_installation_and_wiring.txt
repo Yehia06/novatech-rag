@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: NovaStat Thermostat Installation and Wiring
+Owner: Team Member 4
+============================================================
+
+COMPATIBILITY
+Works with most 24V systems: gas, electric, heat pump, and dual fuel. Not compatible with
+120V line voltage baseboard heaters.
+
+C-WIRE
+A common (C) wire is required. If missing, install the included Power Extender Kit.
+
+WIRING LABELS
+Label each wire before disconnecting. Terminals: R, W, Y, G, C, O/B, and Rc.
+
+SETUP
+Turn off power at the breaker. Mount the base, connect wires, snap on the display, restore
+power, and follow the on-screen setup.

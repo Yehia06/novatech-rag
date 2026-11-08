@@ -1,0 +1,17 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: NovaLock Battery and Emergency Power
+Owner: Team Member 4
+============================================================
+
+BATTERY LIFE
+About 8 to 12 months with typical use of 10 operations per day.
+
+WARNINGS
+The app alerts at 20 percent; keypad flashes red at 10 percent.
+
+EMERGENCY POWER
+If batteries die, touch a 9V battery to the two contacts at the bottom of the keypad to
+wake it and enter your PIN.
+
+PHYSICAL KEY
+A backup key is supplied with every lock. Store one outside the house securely.

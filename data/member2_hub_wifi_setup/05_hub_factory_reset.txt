@@ -1,0 +1,21 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Factory Resetting the NovaHub
+Owner: Team Member 2
+============================================================
+
+WHEN TO RESET
+Use only if the hub is unresponsive, being sold, or after changing Wi-Fi network without
+app access.
+
+PROCEDURE
+Locate the recessed Reset button on the back. With the hub powered on, hold the button
+with a paper clip for 10 seconds until the LED flashes red three times. Release; the hub
+restarts and pulses white.
+
+CONSEQUENCES
+All paired devices are disconnected from the hub, schedules and automations stored locally
+are erased. Cloud-saved scenes can be restored after re-pairing.
+
+REMINDER
+Remove the hub from your account in the app before resetting to avoid ownership conflicts
+(Error A301).

@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Account Creation and Login
+Owner: Team Member 5
+============================================================
+
+CREATING AN ACCOUNT
+Sign up with email and password or with Apple or Google. Email verification is required
+within 24 hours.
+
+PASSWORD RULES
+At least 10 characters with one number and one symbol.
+
+FORGOT PASSWORD
+Use Forgot Password to receive a reset link valid for 30 minutes.
+
+LOGIN PROBLEMS
+Error A101 means invalid credentials. Error A205 means account temporarily locked after 5
+failed attempts; wait 15 minutes.

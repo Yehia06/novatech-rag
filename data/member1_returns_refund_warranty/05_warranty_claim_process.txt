@@ -1,0 +1,21 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: How to File a Warranty Claim
+Owner: Team Member 1
+============================================================
+
+STEP 1: VERIFY
+Confirm the device serial number in the NovaTech app under Device > About. Serial numbers
+begin with NT followed by 10 digits.
+
+STEP 2: TROUBLESHOOT
+Support agents will first walk through the relevant troubleshooting guide and a factory
+reset to rule out configuration issues.
+
+STEP 3: SUBMIT
+Provide proof of purchase, serial number, a short description, and photos or video of the
+fault. Claims are reviewed within 2 business days.
+
+STEP 4: RESOLUTION
+Approved claims receive a prepaid shipping label. Advance replacement is available to
+NovaCare Plus members only; all other customers receive replacements after the faulty unit
+is received.

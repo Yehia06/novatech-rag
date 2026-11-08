@@ -1,0 +1,21 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: NovaLock Error Code Reference
+Owner: Team Member 4
+============================================================
+
+ERROR L101
+Low battery. Replace all four AA batteries within 7 days. Use alkaline; do not use
+rechargeable.
+
+ERROR L203
+Bolt jammed. Check door alignment, make sure the door is closed, and recalibrate.
+
+ERROR L305
+Keypad locked after 5 incorrect PIN attempts. Wait 5 minutes or unlock via app.
+
+ERROR L410
+Bluetooth connection lost. Move phone within 10 meters or verify the hub is online.
+
+ERROR L502
+Motor fault. Remove batteries for 60 seconds. If it persists, request a warranty
+replacement.

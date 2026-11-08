@@ -1,0 +1,20 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: PIN Codes and Guest Access
+Owner: Team Member 4
+============================================================
+
+PIN RULES
+PINs are 4 to 8 digits. Sequences like 1234 are rejected.
+
+CAPACITY
+Up to 100 unique PIN codes.
+
+TEMPORARY CODES
+Owners can set a start and end time, or a one-time code. Requires the hub to be online to
+sync.
+
+AUTO-LOCK
+Configurable delay from 10 seconds to 10 minutes. Default is 30 seconds.
+
+ACTIVITY LOG
+The last 500 events are stored with user names.

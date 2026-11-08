@@ -1,0 +1,21 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Privacy Policy Summary
+Owner: Team Member 5
+============================================================
+
+DATA COLLECTED
+Account details, device diagnostics, usage statistics, and video or audio clips from
+cameras only if cloud recording is on.
+
+DATA NOT SOLD
+NovaTech does not sell personal data to third parties.
+
+RETENTION
+Account data is kept while the account is active and for 90 days after deletion.
+
+THIRD PARTIES
+Limited sharing with payment processors, cloud hosting providers and shipping carriers
+under contract.
+
+REGIONAL RIGHTS
+GDPR and CCPA rights apply to EU and California residents.

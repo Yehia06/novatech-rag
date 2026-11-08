@@ -1,0 +1,17 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Hub and Wi-Fi FAQ
+Owner: Team Member 2
+============================================================
+
+Q: HOW MANY DEVICES CAN ONE HUB SUPPORT?
+Up to 64 devices, including 8 cameras.
+
+Q: DOES THE HUB WORK WITHOUT INTERNET?
+Local automations and lock control over Bluetooth continue to work. Remote access, cloud
+video and voice assistants require internet.
+
+Q: CAN I USE TWO HUBS?
+Yes, up to 3 hubs per account, each with its own device list.
+
+Q: WHICH VOICE ASSISTANTS ARE SUPPORTED?
+Amazon Alexa, Google Assistant and Apple HomeKit (via the hub only).

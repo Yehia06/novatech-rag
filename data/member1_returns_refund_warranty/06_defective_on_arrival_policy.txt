@@ -1,0 +1,20 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Defective on Arrival (DOA) Policy
+Owner: Team Member 1
+============================================================
+
+DEFINITION
+A device is DOA if it fails to power on or fails basic function within the first 14 days
+after delivery.
+
+RESOLUTION
+DOA devices are replaced at no cost with expedited 2-day shipping, or fully refunded
+including original shipping, at the customer's choice.
+
+REQUIREMENTS
+Customers must report DOA issues within 14 days. Support may request a short video showing
+the fault, such as the status LED behavior.
+
+SHIPPING DAMAGE
+If the box arrived visibly damaged, customers should photograph the packaging before
+opening it. Shipping-damage claims are handled as DOA.

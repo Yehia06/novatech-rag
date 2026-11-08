@@ -1,0 +1,19 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Using NovaTech Devices with Mesh Wi-Fi and Extenders
+Owner: Team Member 2
+============================================================
+
+MESH NETWORKS
+Mesh systems are supported if all nodes broadcast the same 2.4 GHz SSID. Disable AP
+isolation and client isolation.
+
+RANGE EXTENDERS
+Extenders that create a separate SSID are not recommended. Devices may stay connected to a
+weak extender; reposition or enable roaming support.
+
+SIGNAL STRENGTH
+In the app, Device > Signal shows RSSI. Values above -65 dBm are good; below -75 dBm cause
+drops.
+
+RECOMMENDATION
+Place the hub closer to battery-powered devices rather than adding extenders.

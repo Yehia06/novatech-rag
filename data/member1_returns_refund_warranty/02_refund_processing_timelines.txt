@@ -1,0 +1,25 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Refund Processing Timelines
+Owner: Team Member 1
+============================================================
+
+OVERVIEW
+Refunds are issued to the original payment method only.
+
+TIMELINE
+After the returned device arrives at the NovaTech warehouse, inspection takes 2 to 3
+business days. Once approved, the refund is submitted immediately and appears within 5 to
+10 business days depending on the bank.
+
+PARTIAL REFUNDS
+A 15 percent restocking fee applies to opened devices missing original packaging. Devices
+missing accessories are refunded minus the replacement cost of the missing items.
+
+SHIPPING COSTS
+Original shipping fees are non-refundable unless the return is due to a NovaTech error or
+defect. Return shipping is free for defective items using the prepaid label in the RMA
+email.
+
+REFUND NOT RECEIVED
+If the refund has not arrived after 10 business days, customers should first check with
+their bank, then contact support with the RMA number.

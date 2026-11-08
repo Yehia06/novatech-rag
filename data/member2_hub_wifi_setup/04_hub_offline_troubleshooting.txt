@@ -1,0 +1,19 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Hub Offline Troubleshooting (Error H201)
+Owner: Team Member 2
+============================================================
+
+SYMPTOM
+The app shows Hub Offline or Error H201. LED is slow blinking red.
+
+QUICK CHECKS
+1. Confirm other devices have internet. 2. Power-cycle the hub by unplugging for 30
+seconds. 3. Power-cycle the router.
+
+ETHERNET FALLBACK
+Connect the hub to the router using the Ethernet cable. The hub prefers a wired connection
+automatically.
+
+STILL OFFLINE
+Check whether the router has MAC filtering or a firewall blocking outbound ports 443 and
+8883. If unresolved after 15 minutes, perform a hub factory reset (see Reset document).

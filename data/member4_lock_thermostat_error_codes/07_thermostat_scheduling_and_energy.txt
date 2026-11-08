@@ -1,0 +1,20 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Scheduling and Energy Saving
+Owner: Team Member 4
+============================================================
+
+LEARNING MODE
+NovaStat Learning adapts after about 7 days of manual adjustments.
+
+SCHEDULES
+Up to 6 periods per day, per weekday.
+
+GEOFENCING
+Switches to Away mode when all phones leave a 1 km radius.
+
+SAVINGS
+NovaTech estimates average savings of 10 to 12 percent on heating and 15 percent on
+cooling, depending on climate and usage.
+
+ECO TEMPERATURES
+Default Away heat is 16 C (61 F) and cool is 28 C (82 F).

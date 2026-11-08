@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Local microSD Storage and Error C305
+Owner: Team Member 3
+============================================================
+
+SUPPORTED CARDS
+microSD Class 10 / U1, 8 GB to 256 GB, formatted FAT32 or exFAT.
+
+RECORDING BEHAVIOR
+Continuous recording overwrites oldest files when full. A 128 GB card holds roughly 14
+days at 1080p.
+
+ERROR C305
+Error C305 means SD card unreadable or corrupted. Format the card in the app under Camera
+> Storage > Format. If the error persists, use a high-endurance card.
+
+TIP
+Remove the card only after powering off the camera to prevent corruption.

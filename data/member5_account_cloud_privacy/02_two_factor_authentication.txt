@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Two-Factor Authentication (2FA)
+Owner: Team Member 5
+============================================================
+
+OPTIONS
+Authenticator app (TOTP), SMS code, or hardware security key (FIDO2).
+
+ENABLING
+Account > Security > Two-Factor Authentication. Save the 10 backup codes shown after
+setup.
+
+LOST DEVICE
+Use a backup code. Without one, identity verification takes 3 to 5 business days and
+requires a photo ID and proof of purchase.
+
+RECOMMENDATION
+Authenticator app is recommended over SMS because of SIM-swap risk.

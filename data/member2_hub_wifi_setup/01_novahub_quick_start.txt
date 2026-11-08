@@ -1,0 +1,20 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: NovaHub Quick Start Guide
+Owner: Team Member 2
+============================================================
+
+IN THE BOX
+NovaHub X1, power adapter (5V 2A), Ethernet cable, quick start card, wall-mount screw kit.
+
+SETUP STEPS
+1. Plug in the hub and wait for the LED to pulse white. 2. Download the NovaTech app and
+create an account. 3. Tap Add Device > NovaHub. 4. Scan the QR code on the bottom of the
+hub. 5. Select your home Wi-Fi network and enter the password.
+
+LED STATUS
+Pulsing white: ready to pair. Solid blue: connected and online. Slow red blink: no
+internet. Fast red blink: hardware fault. Pulsing amber: firmware update in progress.
+
+PLACEMENT
+Place the hub centrally, at least 1 meter from microwaves and cordless phones, and off the
+floor.

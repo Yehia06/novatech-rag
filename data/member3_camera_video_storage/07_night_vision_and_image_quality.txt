@@ -1,0 +1,18 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Night Vision and Image Quality
+Owner: Team Member 3
+============================================================
+
+INFRARED
+Indoor and outdoor cameras use 850 nm infrared LEDs with range up to 8 meters.
+
+GLARE PROBLEMS
+Reflective surfaces such as windows cause white-out. Move the camera away from glass or
+disable IR and use the porch light.
+
+FOGGY IMAGE
+Spiders and condensation can fog the lens. Wipe with a microfiber cloth. Outdoor models
+contain a desiccant pouch and should not be opened.
+
+COLOR NIGHT MODE
+Available on 2K models; requires at least 5 lux ambient light.

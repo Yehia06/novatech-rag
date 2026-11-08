@@ -1,0 +1,21 @@
+NOVATECH SMART HOME - SUPPORT KNOWLEDGE BASE
+Document: Standard Limited Warranty Terms
+Owner: Team Member 1
+============================================================
+
+COVERAGE PERIOD
+All NovaTech hardware carries a 12-month limited warranty starting on the delivery date.
+NovaLock Pro and NovaStat Learning thermostat carry 24 months.
+
+WHAT IS COVERED
+Manufacturing defects in materials and workmanship under normal household use, including
+battery failures below 60 percent of rated capacity within the first 12 months.
+
+WHAT IS NOT COVERED
+Physical damage, water damage beyond the stated IP rating, unauthorized repairs or
+firmware modification, power surges, and cosmetic wear such as scratches.
+
+REMEDY
+NovaTech will at its option repair, replace with a new or refurbished unit, or refund the
+purchase price. Replacement units are warranted for the remainder of the original period
+or 90 days, whichever is longer.
